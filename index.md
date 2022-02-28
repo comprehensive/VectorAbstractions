@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Quantity Modeling
+# Quantity Modeling Whitepaper
 
 <a href="https://docs.google.com/document/d/112LXhejRHiFX-LRXQw3Ww13WqkEcc31Fz98Ee16M1Lc/edit?usp=sharing">View original document</a>
 <br>
