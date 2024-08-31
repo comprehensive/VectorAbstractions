@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Quantity Modeling Whitepaper
-linkedin.com/in/spass/
+Contact me: https://www.facebook.com/anton.spass
 <br>
 <a href="https://docs.google.com/document/d/1fBcjrXnbjP9NyTMbcmK8gnIJCa0k4ASat3D4OUbjizU/edit?usp=sharing">View original document</a>
 <br>
