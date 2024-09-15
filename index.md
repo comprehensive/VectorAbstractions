@@ -3,9 +3,9 @@ layout: default
 ---
 
 # Quantity Modeling Whitepaper
-Linkedin https://www.linkedin.com/in/spass/
+<a href="https://www.linkedin.com/in/spass/">My Linkedin</a> 
 <br>
-<a href="https://x.com/antonspass">Twitter</a> 
+<a href="https://x.com/antonspass">My Twitter</a> 
 <br>
 <br>
 <a href="https://docs.google.com/document/d/1fBcjrXnbjP9NyTMbcmK8gnIJCa0k4ASat3D4OUbjizU/edit?usp=sharing">View original document</a>
