@@ -10,8 +10,6 @@ layout: default
 <br>
 <a href="https://docs.google.com/document/d/1fBcjrXnbjP9NyTMbcmK8gnIJCa0k4ASat3D4OUbjizU/edit?usp=sharing">View original document</a>
 <br>
-<a href="https://docs.google.com/document/d/1D0osdEwFgNCPbit4ZVif8T88BCpZCSVvLshtmlPULiE/edit?usp=sharing">Further clarifications</a>
-<br>
 
 
 <iframe width="800px" height="14500px" src="https://docs.google.com/document/d/1fBcjrXnbjP9NyTMbcmK8gnIJCa0k4ASat3D4OUbjizU/pub?embedded=true"></iframe>
