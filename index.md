@@ -7,7 +7,8 @@ layout: default
 <br>
 <a href="https://x.com/antonspass">Twitter</a> 
 <br>
-<br>This document is best viewed in Google Docs. 
+<br>This document is best viewed in Google Docs.
+<br>
 <a href="https://docs.google.com/document/d/1fBcjrXnbjP9NyTMbcmK8gnIJCa0k4ASat3D4OUbjizU/edit?usp=sharing">View the original document</a>
 <br>
 
